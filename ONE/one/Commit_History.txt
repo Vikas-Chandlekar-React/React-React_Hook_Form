@@ -11,3 +11,10 @@
     - npm i react-hook-form
     - Bad way and Good way to register with input in YoutubeForm.tsx 
         - For more info : See Old/YoutubeForm1.tsx
+
+4. Description : 
+    YTD LINK : 
+        - https://www.youtube.com/watch?v=yvzU12E82M0&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=5&ab_channel=Codevolution
+        - https://www.youtube.com/watch?v=0jI9yWHGoYU&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=6&ab_channel=Codevolution
+    - npm i -D @hookform/devtools
+    - You can see same in Old/YoutubeForm2.tsx
