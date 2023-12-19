@@ -3,3 +3,11 @@
 2. Description : 
     YTD LINK : https://www.youtube.com/watch?v=sw665di3n60&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=2&ab_channel=Codevolution
     - Add Basic form and style
+
+3. Description : 
+    YTD LINK : 
+        - https://www.youtube.com/watch?v=3rlVOnGu0tQ&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=3&ab_channel=Codevolution
+        - https://www.youtube.com/watch?v=1ocvGZwLSow&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=4&ab_channel=Codevolution
+    - npm i react-hook-form
+    - Bad way and Good way to register with input in YoutubeForm.tsx 
+        - For more info : See Old/YoutubeForm1.tsx
