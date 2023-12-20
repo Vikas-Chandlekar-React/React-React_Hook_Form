@@ -25,7 +25,7 @@ export const YoutubeForm3 = () => {
       <h1>Youtube Form : ({renderCount})</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
         <label htmlFor="username">Username</label>
-        <input type="text" id="username" {...register("username1")} />
+        <input type="text" id="username" {...register("username")} />
 
         <label htmlFor="email">E-mail</label>
         <input type="email" id="email" {...register("email")} />
