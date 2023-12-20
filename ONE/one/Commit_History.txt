@@ -39,3 +39,9 @@
     - Custom Validation
     - We can assign single custom validation rule or multiple custom validation rules at single field (e.g. email field)
     - You can see same in Old/YoutubeForm6.tsx
+
+9. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=kA16RAObzYo&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=12&ab_channel=Codevolution
+    - Default Values 
+    - Load static value in form & Load API value in form
+    - You can see same in Old/YoutubeForm7.tsx

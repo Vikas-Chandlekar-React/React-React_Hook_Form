@@ -10,7 +10,7 @@ type TFormValues = {
   channel: string;
 };
 
-export const YoutubeForm = () => {
+export const YoutubeForm7 = () => {
   console.log("YoutubeForm re-render");
   renderCount++;
 
