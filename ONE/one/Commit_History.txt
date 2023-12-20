@@ -33,3 +33,9 @@
     YTD LINK : https://www.youtube.com/watch?v=zSeHmeMPY_c&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=9&ab_channel=Codevolution
     - Display Error Messages
     - You can see same in Old/YoutubeForm5.tsx
+
+8. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=MGPlxvQbNaE&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=10&ab_channel=Codevolution
+    - Custom Validation
+    - We can assign single custom validation rule or multiple custom validation rules at single field (e.g. email field)
+    - You can see same in Old/YoutubeForm6.tsx
