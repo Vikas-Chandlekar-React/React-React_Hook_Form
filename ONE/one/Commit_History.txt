@@ -60,3 +60,7 @@
 12. Description : 
     YTD LINK : https://www.youtube.com/watch?v=tvEeNPy7OVA&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=15&ab_channel=Codevolution
     - Dynamic Fields
+
+13. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=alyPfkjEbII&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=16&ab_channel=Codevolution
+    - Numeric and Date Values
