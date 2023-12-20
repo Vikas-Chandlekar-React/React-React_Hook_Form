@@ -50,3 +50,9 @@
     YTD LINK : https://www.youtube.com/watch?v=zv-TOLKTlR8&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=13&ab_channel=Codevolution
     - Nested Objects
     - You can see same in Old/YoutubeForm8.tsx
+
+11. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=EbFW3u44xiY&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=14&ab_channel=Codevolution
+    - Arrays
+    - Add validation to Nested Object (twitter, facebook) and Array (Primary, Secondary phone numbers)
+    - You can see same in Old/YoutubeForm9.tsx
