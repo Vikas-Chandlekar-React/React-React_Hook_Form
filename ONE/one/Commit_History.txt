@@ -86,3 +86,8 @@
     YTD LINK : https://www.youtube.com/watch?v=JNnmFysl9Ww&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=20&ab_channel=Codevolution
     - Touched and Dirty States
     - You can see same in Old/YoutubeForm15.tsx
+
+18. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=72LioCvhRm0&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=21&ab_channel=Codevolution
+    - Disabling Fields
+    - You can see same in Old/YoutubeForm16.tsx
