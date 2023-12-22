@@ -126,3 +126,9 @@
     YTD LINK : https://www.youtube.com/watch?v=XaZck9p-zo0&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=28&ab_channel=Codevolution
     - Manually Trigger Validations
     - You can see same in Old/YoutubeForm23.tsx
+
+26. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=kV5wfVyN6xI&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=29&ab_channel=Codevolution
+    - Yup Integration
+        - npm i yup @hookform/resolvers
+    - You can see in YupYoutubeForm.tsx
