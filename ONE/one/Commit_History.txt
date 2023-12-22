@@ -132,3 +132,9 @@
     - Yup Integration
         - npm i yup @hookform/resolvers
     - You can see in YupYoutubeForm.tsx
+
+27. Description : 
+    - YTD LINK : https://www.youtube.com/watch?v=RdnJ5UP3HhY&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=30&ab_channel=Codevolution
+    - Zod Integration 
+        - npm i zod @hookform/resolvers
+    - You can see in ZodYoutubeForm.tsx
