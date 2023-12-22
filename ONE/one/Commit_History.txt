@@ -138,3 +138,11 @@
     - Zod Integration 
         - npm i zod @hookform/resolvers
     - You can see in ZodYoutubeForm.tsx
+
+28. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=sD9fZxMO1us&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=31&ab_channel=Codevolution
+    - Material UI Integration
+        - npm install @mui/material @emotion/react @emotion/styled  
+    - You can see in MuiYoutubeForm.tsx
+
+###################################### End Playlist ##############################################    
