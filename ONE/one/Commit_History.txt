@@ -121,3 +121,8 @@
     YTD LINK : https://www.youtube.com/watch?v=4euAxX6K93A&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=27&ab_channel=Codevolution
     - Validation Modes
     - You can see same in Old/YoutubeForm22.tsx
+
+25. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=XaZck9p-zo0&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=28&ab_channel=Codevolution
+    - Manually Trigger Validations
+    - You can see same in Old/YoutubeForm23.tsx
