@@ -47,6 +47,7 @@ export const YoutubeForm = () => {
       age: 0,
       dob: new Date(),
     },
+    mode: "all",
   });
 
   const {
@@ -200,6 +201,7 @@ export const YoutubeForm = () => {
                     "This domain is not supported"
                   );
                 },
+                // POINT : Async Validation
                 emailAvailable: async (fieldValue) => {
                   console.log("emailAvailable validation run");
                   const URL = `https://jsonplaceholder.typicode.com/users?email=${fieldValue}`;
@@ -355,10 +357,10 @@ export const YoutubeForm = () => {
           <p className="error">{errors.dob?.message}</p>
         </div>
 
-        {/* <button>Submit</button> */}
+        <button>Submit</button>
         {/* <button disabled={!isValid || !isDirty}>Submit</button> */}
         {/* <button disabled={!isValid || !isDirty || isSubmitting}>Submit</button> */}
-        <button disabled={!isDirty || isSubmitting}>Submit</button>
+        {/* <button disabled={!isDirty || isSubmitting}>Submit</button> */}
         <button onClick={() => reset()}>Reset</button>
 
         <button type="button" onClick={handleGetValues}>

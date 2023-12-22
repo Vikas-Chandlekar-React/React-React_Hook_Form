@@ -20,7 +20,7 @@ type TFormValues = {
   dob: Date;
 };
 
-export const YoutubeForm21 = () => {
+export const YoutubeForm22 = () => {
   console.log("YoutubeForm re-render");
   renderCount++;
 
@@ -47,6 +47,7 @@ export const YoutubeForm21 = () => {
       age: 0,
       dob: new Date(),
     },
+    mode: "all",
   });
 
   const {
@@ -356,10 +357,10 @@ export const YoutubeForm21 = () => {
           <p className="error">{errors.dob?.message}</p>
         </div>
 
-        {/* <button>Submit</button> */}
+        <button>Submit</button>
         {/* <button disabled={!isValid || !isDirty}>Submit</button> */}
         {/* <button disabled={!isValid || !isDirty || isSubmitting}>Submit</button> */}
-        <button disabled={!isDirty || isSubmitting}>Submit</button>
+        {/* <button disabled={!isDirty || isSubmitting}>Submit</button> */}
         <button onClick={() => reset()}>Reset</button>
 
         <button type="button" onClick={handleGetValues}>

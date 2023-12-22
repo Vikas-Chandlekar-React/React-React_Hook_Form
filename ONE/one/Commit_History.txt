@@ -117,3 +117,7 @@
     - Async Validation
     - You can see same in Old/YoutubeForm21.tsx
 
+24. Description : 
+    YTD LINK : https://www.youtube.com/watch?v=4euAxX6K93A&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=27&ab_channel=Codevolution
+    - Validation Modes
+    - You can see same in Old/YoutubeForm22.tsx
